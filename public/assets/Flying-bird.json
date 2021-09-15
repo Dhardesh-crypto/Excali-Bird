@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "Flying-bird.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 297,
+				"h": 1514
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Flying-bird-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 310,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 269,
+						"h": 226
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 269,
+						"h": 226
+					}
+				},
+				{
+					"filename": "Flying-bird-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 310,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 4,
+						"w": 259,
+						"h": 229
+					},
+					"frame": {
+						"x": 1,
+						"y": 229,
+						"w": 259,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Flying-bird-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 310,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 34,
+						"w": 273,
+						"h": 196
+					},
+					"frame": {
+						"x": 1,
+						"y": 460,
+						"w": 273,
+						"h": 196
+					}
+				},
+				{
+					"filename": "Flying-bird-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 310,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 137,
+						"w": 295,
+						"h": 96
+					},
+					"frame": {
+						"x": 1,
+						"y": 658,
+						"w": 295,
+						"h": 96
+					}
+				},
+				{
+					"filename": "Flying-bird-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 310,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 138,
+						"w": 293,
+						"h": 134
+					},
+					"frame": {
+						"x": 1,
+						"y": 756,
+						"w": 293,
+						"h": 134
+					}
+				},
+				{
+					"filename": "Flying-bird-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 310,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 138,
+						"w": 294,
+						"h": 165
+					},
+					"frame": {
+						"x": 1,
+						"y": 892,
+						"w": 294,
+						"h": 165
+					}
+				},
+				{
+					"filename": "Flying-bird-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 310,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 136,
+						"w": 266,
+						"h": 156
+					},
+					"frame": {
+						"x": 1,
+						"y": 1059,
+						"w": 266,
+						"h": 156
+					}
+				},
+				{
+					"filename": "Flying-bird-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 310,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 102,
+						"w": 258,
+						"h": 134
+					},
+					"frame": {
+						"x": 1,
+						"y": 1217,
+						"w": 258,
+						"h": 134
+					}
+				},
+				{
+					"filename": "Flying-bird-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 310,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 76,
+						"w": 261,
+						"h": 160
+					},
+					"frame": {
+						"x": 1,
+						"y": 1353,
+						"w": 261,
+						"h": 160
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b39b41d84c3cf3636058b566b057432f:86b6ff0150820203ab0c96d2505f0684:e9f1e77b5f7677cb2d4d97f4bb377e18$"
+	}
+}
